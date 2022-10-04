@@ -1,4 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/58039953/184496459-022f99f6-cf2f-4441-b6b2-294b5550e3ee.svg)
 <h1 align="center">Hi 👋, I'm Pravin</h1>
 <h3 align="center">A passionate developer from India. I have a drive to build robust frontend products that are scalable and offer wonderful user experiences.</h3>
 
