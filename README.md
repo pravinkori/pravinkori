@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravinkori&label=Profile%20views&color=0e75b6&style=flat" alt="pravinkori" /> </p>
 
-- 🌱 I’m currently learning **Flutter, TypeScript and C++**
+- 🌱 I’m currently learning **Flutter, TypeScript and React**
 
 - 👯 I’m looking to collaborate on **building web applications and web designing**
 
