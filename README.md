@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<details> 
+<!-- <details> 
 <summary><h2>Github Stats</h2></summary>
 <br>
 
@@ -35,4 +35,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pravinkori&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://git.io/streak-stats)
 
-</details>
+</details> -->
