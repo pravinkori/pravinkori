@@ -1,10 +1,10 @@
-<h1 align="left">Hi, I'm Pravin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="left">Hiya!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="left">A passionate developer from India. I have a drive to build robust frontend products that are scalable and offer wonderful user experiences.</h3>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravinkori&label=Profile%20views&color=0e75b6&style=flat" alt="pravinkori" /> </p>
 
-- 🌱 I’m currently learning **Flutter, TypeScript and React**
+- 🌱 I’m currently learning **Flutter, TypeScript and Vue**
 
 - 🤝 I’m looking to collaborate on **building web applications and web designing**
 
