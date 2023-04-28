@@ -1,4 +1,4 @@
-<h1 align="left">Hiya!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="left">Hiya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="left">A passionate developer from India. I have a drive to build robust frontend products that are scalable and offer wonderful user experiences.</h3>
 <br>
 
