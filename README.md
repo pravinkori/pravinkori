@@ -2,15 +2,62 @@
 <h3 align="left">I like to code and drink chai</h3>
 <br>
 
+<p align="left">🔭 I’m currently working on enhancing my skills as a frontend developer, focusing on React for building dynamic user interfaces<br><br>👯 I’m looking to collaborate on projects that involve the integration of AI and ML technologies into web development to enhance user experience.<br><br>🤝 I’m looking for help with understanding the intricacies of AI and ML integration in web development. If you have experience in this field especially in areas like LLM's or share a passion for exploring the intersection of frontend development and cutting-edge technologies, I'd love to connect.<br><br>🌱 I’m currently learning React and PostgreSQL to strengthen my frontend development skills. Additionally, I am diving into the fundamentals of AI and ML<br><br>💬 Ask me about frontend development using React, database management with PostgreSQL, or my journey into understanding AI and ML in the context of web development.<br><br>⚡ Fun fact: LLM is an autocorrect on steroids</p>
 
-<!-- <details> 
-<summary><h2>Github Stats</h2></summary>
-<br>
+###
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=pravinkori&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+<br clear="both">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravinkori&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/pravinkori/github-readme-stats)
+<img align="left" src="https://profile-counter.glitch.me/pravinkori/count.svg?"  />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pravinkori&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://git.io/streak-stats)
+###
 
-</details> -->
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="www.linkedin.com/in/pravin-kori-541148198" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/QwertyLegacy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pravinkori&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=pravinkori&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
