@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="left" src="https://profile-counter.glitch.me/pravinkori/count.svg?"  />
+<!-- <img align="left" src="https://profile-counter.glitch.me/pravinkori/count.svg?"  /> -->
 
 ###
 
