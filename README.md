@@ -4,14 +4,8 @@
 
 <p align="left">🔭 I’m currently working on enhancing my skills as a frontend developer, focusing on React for building dynamic user interfaces<br><br>👯 I’m looking to collaborate on projects that involve the integration of AI and ML technologies into web development to enhance user experience.<br><br>🤝 I need help understanding how AI and ML fit into web development. If you know your stuff, especially when it comes to LLMs, or if you're into mixing frontend development with cool tech, let's chat!<br><br>⚡ Fun fact: LLM is an autocorrect on steroids</p>
 
-###
-
-<br clear="both">
 
 <!-- <img align="left" src="https://profile-counter.glitch.me/pravinkori/count.svg?"  /> -->
-###
-
-<br clear="both">
 
 <!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -39,7 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 -->
-###
 
 <br clear="both">
 
